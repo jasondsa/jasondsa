@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Python, Java, Kotlin**
 
-💬 Ask me about **Spring Boot, React, Firebase... or anything [here](https://github.com/jason/jason/issues)**
+💬 Ask me about **Spring Boot, React, Firebase... or anything [here](https://github.com/jasondsa/jasondsa/issues)**
 
 
  </div>
